@@ -1,6 +1,9 @@
 (a)從Kaggle中找一個資料集, 描述此資料相關資訊, 包含:
 World Happiness Report 2019
-
+from kaggle
+https://www.kaggle.com/PromptCloudHQ/world-happiness-report-2019/downloads/world-happiness-report-2019.zip/1
+from the official website
+https://worldhappiness.report/
 問題定義
 觀察此資料後，我覺得可以能做出更多的研究關於是否六大因素:人均國內生產總值、預期健康壽命、社會救助、人生抉擇的自由、免於貪腐以及大方之間是否有相關性，
 是否有一個關鍵的因子對於提升快樂來說是最關鍵的因子。因此可能需要分析各個國家在歷年以來的轉變，以及不同國家、民族、氣候帶的國家之間的相關性
